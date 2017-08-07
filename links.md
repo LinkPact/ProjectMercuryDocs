@@ -48,3 +48,7 @@
 - Kind of got this one running, provides some basic components and a nice TODO-list. Not much explained, but the code itself gives a nice level2-view of how one can work with React: https://hellokoding.com/todo-app-with-react-native/
 
 - https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript
+
+- React Native Tutorial https://facebook.github.io/react-native/docs/tutorial.html
+
+- React Native Codecademy https://www.codecademy.com/learn/react-101
